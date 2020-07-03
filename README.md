@@ -17,7 +17,7 @@ For the proposed approach, based on Transfer Learning, I have chosen the VGG16 p
 Data Sets 
 --------
 
-For the first attempt only the datasets provided by Udacity have been used
+It has been used ISIC2017 dataset for trainning and testing
 
 
 Install
