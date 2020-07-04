@@ -31,3 +31,7 @@ Then use pip to install the requirement:
 pip install -r requirement.txt
 ```
 
+Disclaimer
+--------
+
+This project is just for reference and fun purposes. Additionally, I share it as a portfolio of my work.
